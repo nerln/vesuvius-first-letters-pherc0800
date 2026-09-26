@@ -29,7 +29,7 @@ The MANBp panels, shuffled with two lettered controls and unlabelled, went to tw
 one with no context, and the agent that made them, which published a hash of its verdicts
 (`blind-reading/reader-B.sha256`) before reading the other's. Both called both controls "letters" and all nine wraps "nothing" (`blind-reading/`).
 
-## What we learned that others will hit
+## Four automatic criteria that failed
 
 We tried to make the verdict automatic, and **four criteria failed, each with numbers**:
 
