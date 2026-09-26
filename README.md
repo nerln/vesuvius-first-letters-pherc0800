@@ -4,15 +4,17 @@ The public cross-scroll ink model (`ink_9um`, `hybrid_3d2d-seed43/step-060000`) 
 every published segment of PHerc. 0800 — six segments, at the native 8.64 µm and resampled
 to 9.362 µm — and on the nine published wraps of PHerc. MANBp, rendered from their meshes at
 9.596 µm (34.0 cm² of surface). In none of them does stroke-like structure appear in the
-forward panel that is absent from the reverse one. All panels are in `pherc0800/` and `manbp/`.
+forward panel (the model reading the surface volume in its usual depth order) that is absent
+from the reverse one (the same volume read back to front, where ink should not show). All panels are in `pherc0800/` and `manbp/`.
 
 That is about these segments, scales and model, not a claim that either scroll has no ink.
-PHerc. 0800 is in the First Letters set, with volume `20250521135224`, the one read here
-(eligibility list as updated on 24 September in [villa#1887](https://github.com/ScrollPrize/villa/pull/1887)); PHerc. MANBp is not in that set.
+PHerc. 0800 is in the First Letters set, with volume `20250521135224`, the one read here; PHerc.
+MANBp is not in that set ([eligibility list](https://github.com/ScrollPrize/villa/blob/75c79ac5f506d4b9a89bcfbef8e8c0f2f0c3acb3/scrollprize.org/src/data/prizeEligibility.json), as updated on 24 September in
+[villa#1887](https://github.com/ScrollPrize/villa/pull/1887)).
 
-This null is for the public `ink_9um` checkpoint only. On 24 September the Challenge announced
-a new 9 µm ink-detection recipe that finds letters on PHerc. 1447, until then on the First Letters
-list; its model was not released at the time of writing, and this run says nothing about what it
+This null is for the public `ink_9um` checkpoint only. On 24 September the Challenge announced,
+in its Discord #announcements channel, a new 9 µm ink-detection recipe that finds letters on
+PHerc. 1447, which villa#1887 took off the First Letters list the same day; its model was not released at the time of writing, and this run says nothing about what it
 would find on PHerc. 0800 or PHerc. MANBp.
 
 ## The control, first
@@ -24,8 +26,8 @@ pipeline works, not how well it reads an unread scroll.
 ## Who judged, and how blind
 
 The MANBp panels, shuffled with two lettered controls and unlabelled, went to two AI readers:
-one with no context, and the agent that made them, which hashed its verdicts before seeing the
-other's. Both called both controls "letters" and all nine wraps "nothing" (`blind-reading/`).
+one with no context, and the agent that made them, which published a hash of its verdicts
+(`blind-reading/reader-B.sha256`) before reading the other's. Both called both controls "letters" and all nine wraps "nothing" (`blind-reading/`).
 
 ## What we learned that others will hit
 

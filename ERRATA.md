@@ -14,7 +14,7 @@ the area used in the run instead of against the original 15,011-px rule, so a ru
 wrote "stays at 15,011". The script was fixed and both calibration files regenerated; all
 other numbers were identical. **The published file is the corrected one.**
 
-## 2. Two defects in the blind visual reading
+## 2. Two defects in the first blind reading (the PHerc. 0800 panels, 22 Sep)
 
 - The panel titles were cropped at a fixed 8.5 % of the height. On the positive-control panel
   that left the candidate counts visible, so **on that one panel the reading was not blind**.
@@ -22,6 +22,10 @@ other numbers were identical. **The published file is the corrected one.**
 - The second reader received the first reader's verdict before recording their own. So only
   **one** target panel (`20251028220042`, 9.362 µm arm) has two independent concordant
   readings; the other eleven have one blind reader each.
+
+The MANBp reading in `blind-reading/` (23 Sep) was set up after both were found: titles
+cropped from the image content, a first reader with no context at all, and the second
+reader's verdicts hashed before it read the first's.
 
 ## 3. Threshold convention
 
