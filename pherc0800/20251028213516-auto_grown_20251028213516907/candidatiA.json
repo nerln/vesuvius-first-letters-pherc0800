@@ -1,0 +1,116 @@
+{
+ "nome": "20251028213516-auto_grown_20251028213516907 A nativo",
+ "forward": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028213516-auto_grown_20251028213516907\\predA-nativo.tif",
+ "reverse": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028213516-auto_grown_20251028213516907\\predA-nativo_reverse.tif",
+ "parametri": {
+  "soglia_uint8": 128,
+  "area_min_px": 12000,
+  "fascia_bordo_px": 64,
+  "occupazione_livello": "3",
+  "upscale": [
+   8,
+   8
+  ],
+  "frazione_valida_dopo_erosione": 0.37063492063492065
+ },
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 285,
+   "inversi": 348
+  },
+  "dopo_area": {
+   "avanti": 2,
+   "inversi": 3
+  },
+  "dopo_bordo": {
+   "avanti": 2,
+   "inversi": 3
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 2,
+   "inversi": 3
+  }
+ },
+ "bordo_variante_stretta": {
+  "avanti": 1,
+  "inversi": 1
+ },
+ "scarto_variante_unione": {
+  "avanti": 2
+ },
+ "candidati_avanti_sopravvissuti": [
+  {
+   "id": 191,
+   "area": 12526,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  },
+  {
+   "id": 209,
+   "area": 30466,
+   "sovrapposizione_max_singolo": 0.0412,
+   "sovrapposizione_unione": 0.0412
+  }
+ ],
+ "candidati_avanti_scartati": [],
+ "dettaglio_avanti": [
+  {
+   "id": 191,
+   "area": 12526,
+   "area_dentro_la_zona_valida": 12526,
+   "bbox": [
+    1393,
+    1048,
+    1499,
+    1230
+   ]
+  },
+  {
+   "id": 209,
+   "area": 30466,
+   "area_dentro_la_zona_valida": 22275,
+   "bbox": [
+    1456,
+    1188,
+    1695,
+    1474
+   ]
+  }
+ ],
+ "dettaglio_inversi": [
+  {
+   "id": 37,
+   "area": 14480,
+   "area_dentro_la_zona_valida": 14480,
+   "bbox": [
+    434,
+    1157,
+    540,
+    1415
+   ]
+  },
+  {
+   "id": 225,
+   "area": 22585,
+   "area_dentro_la_zona_valida": 12211,
+   "bbox": [
+    1374,
+    342,
+    1617,
+    570
+   ]
+  },
+  {
+   "id": 286,
+   "area": 28519,
+   "area_dentro_la_zona_valida": 13645,
+   "bbox": [
+    1580,
+    972,
+    1876,
+    1275
+   ]
+  }
+ ],
+ "secondi": 0.4
+}

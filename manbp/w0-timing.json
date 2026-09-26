@@ -1,0 +1,6 @@
+{
+ "segmento": "20251218010446-w0_20251218010446110",
+ "render_s": 536,
+ "inferenza_s": 111,
+ "_note": "22 Sep, from the run records (render 18:33:45-18:42:41, inference 18:43:11-18:45:02); cold chunk cache, hence the long render"
+}

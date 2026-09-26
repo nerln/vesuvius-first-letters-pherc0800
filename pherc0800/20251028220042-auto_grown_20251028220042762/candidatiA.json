@@ -1,0 +1,139 @@
+{
+ "nome": "20251028220042-auto_grown_20251028220042762 A nativo",
+ "forward": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028220042-auto_grown_20251028220042762\\predA-nativo.tif",
+ "reverse": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028220042-auto_grown_20251028220042762\\predA-nativo_reverse.tif",
+ "parametri": {
+  "soglia_uint8": 128,
+  "area_min_px": 12000,
+  "fascia_bordo_px": 64,
+  "occupazione_livello": "3",
+  "upscale": [
+   8,
+   8
+  ],
+  "frazione_valida_dopo_erosione": 0.4081254901960784
+ },
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 323,
+   "inversi": 261
+  },
+  "dopo_area": {
+   "avanti": 4,
+   "inversi": 2
+  },
+  "dopo_bordo": {
+   "avanti": 4,
+   "inversi": 2
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 4,
+   "inversi": 2
+  }
+ },
+ "bordo_variante_stretta": {
+  "avanti": 3,
+  "inversi": 1
+ },
+ "scarto_variante_unione": {
+  "avanti": 4
+ },
+ "candidati_avanti_sopravvissuti": [
+  {
+   "id": 51,
+   "area": 16775,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  },
+  {
+   "id": 84,
+   "area": 12132,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  },
+  {
+   "id": 104,
+   "area": 17256,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  },
+  {
+   "id": 161,
+   "area": 32683,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  }
+ ],
+ "candidati_avanti_scartati": [],
+ "dettaglio_avanti": [
+  {
+   "id": 51,
+   "area": 16775,
+   "area_dentro_la_zona_valida": 16775,
+   "bbox": [
+    358,
+    942,
+    545,
+    1124
+   ]
+  },
+  {
+   "id": 84,
+   "area": 12132,
+   "area_dentro_la_zona_valida": 12132,
+   "bbox": [
+    588,
+    920,
+    742,
+    1059
+   ]
+  },
+  {
+   "id": 104,
+   "area": 17256,
+   "area_dentro_la_zona_valida": 16637,
+   "bbox": [
+    722,
+    220,
+    921,
+    407
+   ]
+  },
+  {
+   "id": 161,
+   "area": 32683,
+   "area_dentro_la_zona_valida": 32683,
+   "bbox": [
+    1134,
+    870,
+    1325,
+    1213
+   ]
+  }
+ ],
+ "dettaglio_inversi": [
+  {
+   "id": 50,
+   "area": 21015,
+   "area_dentro_la_zona_valida": 13621,
+   "bbox": [
+    296,
+    609,
+    456,
+    914
+   ]
+  },
+  {
+   "id": 145,
+   "area": 12386,
+   "area_dentro_la_zona_valida": 12386,
+   "bbox": [
+    1004,
+    614,
+    1243,
+    716
+   ]
+  }
+ ],
+ "secondi": 0.4
+}

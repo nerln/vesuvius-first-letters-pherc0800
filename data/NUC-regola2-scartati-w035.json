@@ -1,0 +1,56 @@
+{
+ "soglia_inverso_nuova": 113,
+ "frazione_avanti": 0.14113,
+ "candidati_avanti": 92,
+ "vecchia": {
+  "soglia_inverso": 128,
+  "candidati_inversi": 39,
+  "scartati": [
+   {
+    "area": 13330,
+    "sovrapposizione_con_inverso": 0.51,
+    "lettere_annotate_toccate": [],
+    "pixel_di_inchiostro_dentro": 0,
+    "e_una_lettera_vera": false
+   },
+   {
+    "area": 13399,
+    "sovrapposizione_con_inverso": 0.756,
+    "lettere_annotate_toccate": [],
+    "pixel_di_inchiostro_dentro": 0,
+    "e_una_lettera_vera": false
+   }
+  ],
+  "scartati_che_sono_lettere_vere": 0
+ },
+ "nuova": {
+  "soglia_inverso": 113,
+  "candidati_inversi": 67,
+  "scartati": [
+   {
+    "area": 13330,
+    "sovrapposizione_con_inverso": 0.606,
+    "lettere_annotate_toccate": [],
+    "pixel_di_inchiostro_dentro": 0,
+    "e_una_lettera_vera": false
+   },
+   {
+    "area": 12083,
+    "sovrapposizione_con_inverso": 0.525,
+    "lettere_annotate_toccate": [
+     13
+    ],
+    "pixel_di_inchiostro_dentro": 6043,
+    "e_una_lettera_vera": true
+   },
+   {
+    "area": 13399,
+    "sovrapposizione_con_inverso": 0.809,
+    "lettere_annotate_toccate": [],
+    "pixel_di_inchiostro_dentro": 0,
+    "e_una_lettera_vera": false
+   }
+  ],
+  "scartati_che_sono_lettere_vere": 1
+ }
+}

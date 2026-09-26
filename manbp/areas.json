@@ -1,0 +1,97 @@
+{
+ "_how": "measured with manbp/measure_areas.py on the published tifxyz_original of each wrap, at 2.399 um per voxel",
+ "_source": "s3://vesuvius-challenge-open-data/PHercMANBp/segments/<segment>/mesh/intermediate/tifxyz_original/{x,y,z}.tif",
+ "wraps": {
+  "w0": {
+   "segment": "20251218010446-w0_20251218010446110",
+   "declared_cm2": 6.847329544416779,
+   "measured_cm2": 3.894,
+   "sha256": {
+    "x": "2c210506c9e86294538d3576cbed07126b1b487c42dfad38cd4d332db9038712",
+    "y": "d3a02b43e96788adbe0126bb48f37e653658beeab4e06671941f629019dfb185",
+    "z": "b24276cd504eb7a6cd6a0c6750143a99be3d5f9fe80bdf1c4a7eac94a283f36c"
+   }
+  },
+  "w1": {
+   "segment": "20251217233843-w1_20251217233843496",
+   "declared_cm2": 5.454752902722291,
+   "measured_cm2": 4.647,
+   "sha256": {
+    "x": "d34b4c7bb7a530e02b31f222e24bcc21eac55139def20da4416f323e32ef263a",
+    "y": "13626b3e7f94579d9f29498e783d965717354e389b79b2ff37a0063684b384e4",
+    "z": "350ac60a4b104f85f4384deddd49b391a807a2b1fa631d9b200d95670ddc0df7"
+   }
+  },
+  "w2": {
+   "segment": "20251217234605-w2_20251217234605189",
+   "declared_cm2": 11.059073325412418,
+   "measured_cm2": 11.051,
+   "sha256": {
+    "x": "eb3ab8bbf82d5fbf52185e800645b121af2f1566fc2fcb3349b69f316629e825",
+    "y": "9f06346013e447813b1713de0b9c2104e44b4f41d5e48bd0d37f6254d1927187",
+    "z": "2cbee188191eaf8534b3f9d859b98c8b016b673cd39683d8cac1bc547cb64f55"
+   }
+  },
+  "w3": {
+   "segment": "20251218211706-w3_20251218211706689",
+   "declared_cm2": 3.8809400306525212,
+   "measured_cm2": 3.874,
+   "sha256": {
+    "x": "66e84d42e7641b3f9be9fd266047eb1dde4427f7263306762d6bcc184abc2125",
+    "y": "f9d5a00fab8bed9ccd2edbe6e4f210eee812a3e597f2688a8e61139f8984a75a",
+    "z": "8dcf328becf088b11cb362629f708624018745c8ca06c5e639697ea888d89f5e"
+   }
+  },
+  "w4": {
+   "segment": "20251218212128-w4_20251218212128406",
+   "declared_cm2": 3.8481910467305878,
+   "measured_cm2": 3.729,
+   "sha256": {
+    "x": "be842000963036b327c4a9ad693946890cbf45dff43897d5e8b7355c2dd824f1",
+    "y": "2aa48a57c18880198d4d4a3c3db8add02c663b15a2bfdee4e6678c0e230c9cb3",
+    "z": "56db93537f500ee6d1e54e6dfacc8e56bcc0ab2e61959f8724693ecff3c94428"
+   }
+  },
+  "w5": {
+   "segment": "20251218212713-w5_20251218212713988",
+   "declared_cm2": 3.488864390380515,
+   "measured_cm2": 3.484,
+   "sha256": {
+    "x": "90fe850c055dfdee871f822625ac4d9afac54d7cf27362499db4cbda266494ff",
+    "y": "ebafd0c281a0023ed0028be2eca463e9f46c145d938ce24828f20836c7c81c54",
+    "z": "da21296d76d2383deb21c2a781aa8e08295d28a4326e8cddec34a6d278cdc833"
+   }
+  },
+  "w6": {
+   "segment": "20251220015639-w6_20251220015639809",
+   "declared_cm2": 13.1269153934108,
+   "measured_cm2": 2.168,
+   "sha256": {
+    "x": "1695bfd3d9f49fa595606a71cae7cfa01cdd6c6de1f076a4c5e838ff6028abc1",
+    "y": "70ce87f7c64266dc41fa0add7aef79fad22fc2d340aa1b775f9808275e26bebb",
+    "z": "c9493d3a3a1bbaed1f6d539cbd813f11224ed94ca150200e976dda35d6277393"
+   }
+  },
+  "w7": {
+   "segment": "20251222223312-w7_20251222223312675",
+   "declared_cm2": 0.8149092424022388,
+   "measured_cm2": 0.814,
+   "sha256": {
+    "x": "064e60abc46e1896632a50432f04182378bbd2e131cce9e4cf1918a2db501afb",
+    "y": "baebae1ff5393dd54e3f254ab44aef0d93ae694ea38af42529d474bcaa2c0311",
+    "z": "e111c745bbbf16b634a0b29e0fd5aa62635044323f75a0936ce3ca8f2a3d93e5"
+   }
+  },
+  "w8": {
+   "segment": "20251219211451-w8_20251219211451561",
+   "declared_cm2": 0.4828548071589575,
+   "measured_cm2": 0.368,
+   "sha256": {
+    "x": "0e72fdad8fe0bc0fe2245aae1e0fdb717d0e39951d4f5b6603c3ac69d2207dff",
+    "y": "22dbf97275c4e577310581e1c9649378977bb735689c12613599adbababaadcc",
+    "z": "468ec76a2d72bf4dfc686fcf502ea9b8d7a09a1b8222786abdf53715b644da65"
+   }
+  }
+ },
+ "total_measured_cm2": 34.03
+}

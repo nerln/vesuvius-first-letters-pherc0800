@@ -1,0 +1,91 @@
+{
+ "scroll": "PHerc0800",
+ "segmento": "20251028222030-auto_grown_20251028222030940",
+ "iniziato": "2026-09-22 18:19:56",
+ "criteri": {
+  "soglia": 0.5,
+  "area_min_px": 12000,
+  "bordo_px": 64,
+  "sovrapposizione_scarto": 0.5,
+  "batch_size": 32,
+  "direzione": "both",
+  "blend": "hann",
+  "overlap": 0.5
+ },
+ "volume_nativo": "8.64um-1.2m-116keV-volume-20250521135224.zarr",
+ "rete": {
+  "oggetti": 344,
+  "byte": 170355926,
+  "secondi": 44.7
+ },
+ "braccio_A_nativo": {
+  "etichetta": "A nativo",
+  "comando": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\python\\python.exe -m vesuvius.ink_detection.inference.infer C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028222030-auto_grown_20251028222030940\\volume-nativo.zarr C:\\Users\\Eugenio\\dev\\vesuvius-l2\\checkpoints\\ink_9um\\hybrid_3d2d-seed43\\step-060000.pth C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028222030-auto_grown_20251028222030940\\predA-nativo.tif --overlap 0.5 --blend-mode hann --direction both --batch-size 32 --no-compile",
+  "exit": 0,
+  "secondi_calcolo": 54.44,
+  "log_coda": "k_9um\\hybrid_3d2d-seed43\\step-060000.pth (missing_keys=0 unexpected_keys=0)\n[2026-09-22 18:20:48,137] INFO Selected source layer indices=[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]\n[2026-09-22 18:20:48,137] INFO Input level=0 shape=(depth=31, height=2580, width=2580) chunks=(128, 128) patch=128 stride=64 requested_overlap=0.500 blend_mode=hann tta_mirror=False\n[2026-09-22 18:20:48,137] INFO No mask supplied; using the entire Zarr\n[2026-09-22 18:20:48,165] INFO Using occupancy scan level=3 shape=(323, 323) scale=(8, 8) nonempty_coverage=47.331%\n[2026-09-22 18:20:48,173] INFO Selected 923 patches for inference\n[2026-09-22 18:21:13,263] INFO Selected source layer indices=[23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7]\n[2026-09-22 18:21:13,263] INFO Input level=0 shape=(depth=31, height=2580, width=2580) chunks=(128, 128) patch=128 stride=64 requested_overlap=0.500 blend_mode=hann tta_mirror=False\n[2026-09-22 18:21:13,263] INFO No mask supplied; using the entire Zarr\n[2026-09-22 18:21:13,280] INFO Using occupancy scan level=3 shape=(323, 323) scale=(8, 8) nonempty_coverage=47.331%\n[2026-09-22 18:21:13,286] INFO Selected 923 patches for inference\n",
+  "secondi_analisi": 1.5,
+  "tabella_G0": {
+   "sopra_soglia": {
+    "avanti": 361,
+    "inversi": 446
+   },
+   "dopo_area": {
+    "avanti": 1,
+    "inversi": 1
+   },
+   "dopo_bordo": {
+    "avanti": 1,
+    "inversi": 0
+   },
+   "dopo_scarto_inverso": {
+    "avanti": 1,
+    "inversi": 0
+   }
+  },
+  "stampa": "--- 20251028222030-auto_grown_20251028222030940 A nativo\nfiltro                               avanti  inversi\nsopra_soglia                            361      446\ndopo_area                                 1        1\ndopo_bordo                                1        0\ndopo_scarto_inverso                       1        0\n(bordo, variante stretta)                 0        0\n(scarto, variante unione)                 1\naree avanti sopravvissute: [65533]\nscartati per sovrapposizione: []\n0.5 s\n",
+  "aree_avanti": [
+   65533
+  ]
+ },
+ "ricampionamento": {
+  "secondi": 15.7,
+  "exit": 0,
+  "stdout": "{\"shape_sorgente\": [31, 2580, 2580], \"shape_destinazione\": [29, 2381, 2381], \"secondi\": 13.4, \"nonzero_sorgente\": 0.4703590674800483, \"nonzero_destinazione\": 0.4710771135270281}",
+  "stderr": ""
+ },
+ "braccio_B_9362": {
+  "etichetta": "B 9,362 um",
+  "comando": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\python\\python.exe -m vesuvius.ink_detection.inference.infer C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028222030-auto_grown_20251028222030940\\volume-9362.zarr C:\\Users\\Eugenio\\dev\\vesuvius-l2\\checkpoints\\ink_9um\\hybrid_3d2d-seed43\\step-060000.pth C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028222030-auto_grown_20251028222030940\\predB-9362.tif --overlap 0.5 --blend-mode hann --direction both --batch-size 32 --no-compile",
+  "exit": 0,
+  "secondi_calcolo": 53.92,
+  "log_coda": "ink_9um\\hybrid_3d2d-seed43\\step-060000.pth (missing_keys=0 unexpected_keys=0)\n[2026-09-22 18:22:02,867] INFO Selected source layer indices=[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]\n[2026-09-22 18:22:02,867] INFO Input level=0 shape=(depth=29, height=2381, width=2381) chunks=(128, 128) patch=128 stride=64 requested_overlap=0.500 blend_mode=hann tta_mirror=False\n[2026-09-22 18:22:02,867] INFO No mask supplied; using the entire Zarr\n[2026-09-22 18:22:02,893] INFO Using occupancy scan level=3 shape=(297, 297) scale=(8, 8) nonempty_coverage=47.902%\n[2026-09-22 18:22:02,897] INFO Selected 795 patches for inference\n[2026-09-22 18:22:23,982] INFO Selected source layer indices=[22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6]\n[2026-09-22 18:22:23,983] INFO Input level=0 shape=(depth=29, height=2381, width=2381) chunks=(128, 128) patch=128 stride=64 requested_overlap=0.500 blend_mode=hann tta_mirror=False\n[2026-09-22 18:22:23,983] INFO No mask supplied; using the entire Zarr\n[2026-09-22 18:22:23,995] INFO Using occupancy scan level=3 shape=(297, 297) scale=(8, 8) nonempty_coverage=47.902%\n[2026-09-22 18:22:24,001] INFO Selected 795 patches for inference\n",
+  "secondi_analisi": 2.0,
+  "tabella_G0": {
+   "sopra_soglia": {
+    "avanti": 331,
+    "inversi": 357
+   },
+   "dopo_area": {
+    "avanti": 1,
+    "inversi": 1
+   },
+   "dopo_bordo": {
+    "avanti": 1,
+    "inversi": 1
+   },
+   "dopo_scarto_inverso": {
+    "avanti": 1,
+    "inversi": 1
+   }
+  },
+  "stampa": "--- 20251028222030-auto_grown_20251028222030940 B 9362\nfiltro                               avanti  inversi\nsopra_soglia                            331      357\ndopo_area                                 1        1\ndopo_bordo                                1        1\ndopo_scarto_inverso                       1        1\n(bordo, variante stretta)                 0        1\n(scarto, variante unione)                 1\naree avanti sopravvissute: [64481]\nscartati per sovrapposizione: []\n0.5 s\n",
+  "aree_avanti": [
+   64481
+  ]
+ },
+ "volumi_cancellati": true,
+ "esito_A": "1 candidati avanti, 0 inversi",
+ "esito_B": "1 candidati avanti, 1 inversi",
+ "finito": "2026-09-22 18:22:54"
+}

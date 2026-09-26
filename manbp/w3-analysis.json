@@ -1,0 +1,65 @@
+{
+ "etichetta": "PHercMANBp w3 — 9,596 um",
+ "criteri": {
+  "soglia_u8": 128,
+  "area_min_px": 12000,
+  "bordo_px": 64,
+  "sovrapposizione_scarto": 0.5
+ },
+ "forma": [
+  5675,
+  4260
+ ],
+ "mpx": 24.18,
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 1699,
+   "inversi": 2304
+  },
+  "dopo_area": {
+   "avanti": 10,
+   "inversi": 32
+  },
+  "dopo_bordo": {
+   "avanti": 10,
+   "inversi": 32
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 7,
+   "inversi": 32
+  }
+ },
+ "scartati_per_sovrapposizione": [
+  [
+   120,
+   0.63
+  ],
+  [
+   772,
+   0.671
+  ],
+  [
+   822,
+   0.575
+  ]
+ ],
+ "aree_avanti": [
+  14651,
+  19927,
+  24901,
+  28764,
+  57689,
+  114666,
+  825289
+ ],
+ "densita_avanti_per_mpx": 0.29,
+ "offset": {
+  "media_avanti": 106.41,
+  "media_inverso": 95.98,
+  "frazione_sopra_0.5_avanti": 28.13,
+  "frazione_sopra_0.5_inverso": 16.43,
+  "soglia_inverso_pareggiata": 108,
+  "pixel_validi_mpx": 5.11
+ },
+ "esito": "7 avanti, 32 inversi (verdetto: visivo, non automatico)"
+}

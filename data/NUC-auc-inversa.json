@@ -1,0 +1,59 @@
+{
+ "info": {
+  "pred_path": "dati/w035/pred-b08_reverse.tif",
+  "pred_shape": [
+   5820,
+   5240
+  ],
+  "pred_dtype": "uint8",
+  "pred_min": 0.0,
+  "pred_max": 228.0,
+  "labels_path": "dati/w035/ink-labels.zarr",
+  "labels_shape": [
+   5820,
+   5240
+  ],
+  "labels_unique_head": [
+   0.0,
+   255.0
+  ],
+  "cropped_to": [
+   5820,
+   5240
+  ],
+  "shapes_equal": true,
+  "occupancy_source": {
+   "level": "5",
+   "lowres_shape": [
+    182,
+    164
+   ],
+   "upscale": [
+    32,
+    32
+   ],
+   "fraction_valid": 0.831071587838724
+  },
+  "supervision_fraction": 0.0351224062852496,
+  "ink_inside_supervision": 0.31185552332556266,
+  "ink_outside_supervision": 62129
+ },
+ "auc_full_frame": {
+  "auc": 0.5866359900022295,
+  "n_positivi": 396164,
+  "n_negativi": 30100636
+ },
+ "auc_occupancy": {
+  "auc": 0.5259949998819108,
+  "n_positivi": 396164,
+  "n_negativi": 24948860
+ },
+ "auc_supervision": {
+  "auc": 0.5920415960406741,
+  "n_positivi": 334035,
+  "n_negativi": 737086
+ },
+ "auc_primaria": 0.5920415960406741,
+ "dominio_primario": "maschera di supervisione",
+ "gate_G0_0.85": false
+}

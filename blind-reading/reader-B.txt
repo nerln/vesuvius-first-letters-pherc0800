@@ -1,0 +1,19 @@
+LETTORE B — l'agente del Mac. Scritto il 23/09/2026 11:23:14, PRIMA di aprire il giudizio del lettore A.
+
+LIMITI DICHIARATI, prima dei giudizi:
+- Ho prodotto io i pannelli e so che nel lotto ci sono due controlli. Li riconosco dalla forma
+  (un ritaglio quasi quadrato con testo, e una striscia molto larga), quindi su quei due non sono cieco.
+- Il pannello di MANBp w0 l'ho visto ieri sera, prima del protocollo. Non so quale numero abbia qui.
+- Sugli altri otto pannelli di MANBp non ho mai visto l'immagine prima di questa lettura.
+
+pannello-01: niente — alta — tessitura a chiazze fitta in entrambi i versi; i riquadri cadono su chiazze con la stessa grana del fondo; nessun tratto, nessuna riga
+pannello-02: niente — alta — chiazze tondeggianti, l'avanti piu' luminoso dell'inverso ma con la stessa grana; nessuna forma di lettera
+pannello-03: lettere — alta — lettere greche nitide allineate su righe (Ρ, Ν, Ο, Τ, Υ, Ϲ…), assenti a destra. [riconosciuto come controllo dalla forma]
+pannello-04: niente — alta — chiazze della stessa grana nei due versi; nessun tratto continuo
+pannello-05: niente — alta — grandi nuvole morbide nei due versi, stessa tessitura; nessun tratto
+pannello-06: lettere — alta — una riga di lettere nitide a tratto sottile a sinistra, assente a destra. [riconosciuto come controllo dalla forma]
+pannello-07: niente — alta — chiazze piccole e fitte, stessa grana nei due versi
+pannello-08: niente — MEDIA — nei riquadri a sinistra due forme diagonali allungate: sono le cose piu' simili a un tratto di tutto il lotto, ma hanno bordi morbidi e la stessa tessitura delle macchie che a destra stanno nella stessa zona; non si chiudono in lettere e non formano una riga
+pannello-09: niente — alta — puntinatura fine uniforme nei due versi; i riquadri sono grani del fondo
+pannello-10: niente — alta — chiazze; l'avanti piu' chiaro al centro, stessa grana dell'inverso
+pannello-11: niente — alta — tessitura vermiforme su tutta la superficie e in entrambi i versi; curve ovunque, nessuna forma di lettera, nessuna riga

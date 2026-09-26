@@ -1,0 +1,155 @@
+{
+ "nome": "20251028220955-auto_grown_20251028220955262 B 9362",
+ "forward": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028220955-auto_grown_20251028220955262\\predB-9362.tif",
+ "reverse": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028220955-auto_grown_20251028220955262\\predB-9362_reverse.tif",
+ "parametri": {
+  "soglia_uint8": 128,
+  "area_min_px": 12000,
+  "fascia_bordo_px": 64,
+  "occupazione_livello": "3",
+  "upscale": [
+   9,
+   9
+  ],
+  "frazione_valida_dopo_erosione": 0.45139441361249294
+ },
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 297,
+   "inversi": 315
+  },
+  "dopo_area": {
+   "avanti": 3,
+   "inversi": 5
+  },
+  "dopo_bordo": {
+   "avanti": 3,
+   "inversi": 4
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 3,
+   "inversi": 4
+  }
+ },
+ "bordo_variante_stretta": {
+  "avanti": 3,
+  "inversi": 3
+ },
+ "scarto_variante_unione": {
+  "avanti": 3
+ },
+ "candidati_avanti_sopravvissuti": [
+  {
+   "id": 95,
+   "area": 17329,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  },
+  {
+   "id": 101,
+   "area": 13959,
+   "sovrapposizione_max_singolo": 0.3694,
+   "sovrapposizione_unione": 0.3694
+  },
+  {
+   "id": 118,
+   "area": 14538,
+   "sovrapposizione_max_singolo": 0.0,
+   "sovrapposizione_unione": 0.0
+  }
+ ],
+ "candidati_avanti_scartati": [],
+ "dettaglio_avanti": [
+  {
+   "id": 95,
+   "area": 17329,
+   "area_dentro_la_zona_valida": 17329,
+   "bbox": [
+    629,
+    796,
+    806,
+    1104
+   ]
+  },
+  {
+   "id": 101,
+   "area": 13959,
+   "area_dentro_la_zona_valida": 13959,
+   "bbox": [
+    655,
+    1452,
+    797,
+    1624
+   ]
+  },
+  {
+   "id": 118,
+   "area": 14538,
+   "area_dentro_la_zona_valida": 14538,
+   "bbox": [
+    724,
+    964,
+    838,
+    1174
+   ]
+  }
+ ],
+ "dettaglio_inversi": [
+  {
+   "id": 119,
+   "area": 12566,
+   "area_dentro_la_zona_valida": 12123,
+   "bbox": [
+    536,
+    1458,
+    741,
+    1608
+   ]
+  },
+  {
+   "id": 132,
+   "area": 12557,
+   "area_dentro_la_zona_valida": 12557,
+   "bbox": [
+    637,
+    1200,
+    820,
+    1302
+   ]
+  },
+  {
+   "id": 160,
+   "area": 17137,
+   "area_dentro_la_zona_valida": 0,
+   "bbox": [
+    721,
+    267,
+    866,
+    469
+   ]
+  },
+  {
+   "id": 202,
+   "area": 22935,
+   "area_dentro_la_zona_valida": 22935,
+   "bbox": [
+    1006,
+    1125,
+    1222,
+    1365
+   ]
+  },
+  {
+   "id": 291,
+   "area": 22064,
+   "area_dentro_la_zona_valida": 22064,
+   "bbox": [
+    1462,
+    994,
+    1648,
+    1205
+   ]
+  }
+ ],
+ "secondi": 0.4
+}

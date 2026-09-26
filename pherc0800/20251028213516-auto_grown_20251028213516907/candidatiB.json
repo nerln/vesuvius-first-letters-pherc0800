@@ -1,0 +1,69 @@
+{
+ "nome": "20251028213516-auto_grown_20251028213516907 B 9362",
+ "forward": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028213516-auto_grown_20251028213516907\\predB-9362.tif",
+ "reverse": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028213516-auto_grown_20251028213516907\\predB-9362_reverse.tif",
+ "parametri": {
+  "soglia_uint8": 128,
+  "area_min_px": 12000,
+  "fascia_bordo_px": 64,
+  "occupazione_livello": "3",
+  "upscale": [
+   9,
+   9
+  ],
+  "frazione_valida_dopo_erosione": 0.4642130378433856
+ },
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 259,
+   "inversi": 285
+  },
+  "dopo_area": {
+   "avanti": 0,
+   "inversi": 2
+  },
+  "dopo_bordo": {
+   "avanti": 0,
+   "inversi": 2
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 0,
+   "inversi": 2
+  }
+ },
+ "bordo_variante_stretta": {
+  "avanti": 0,
+  "inversi": 2
+ },
+ "scarto_variante_unione": {
+  "avanti": 0
+ },
+ "candidati_avanti_sopravvissuti": [],
+ "candidati_avanti_scartati": [],
+ "dettaglio_avanti": [],
+ "dettaglio_inversi": [
+  {
+   "id": 176,
+   "area": 27580,
+   "area_dentro_la_zona_valida": 27580,
+   "bbox": [
+    1057,
+    351,
+    1356,
+    649
+   ]
+  },
+  {
+   "id": 248,
+   "area": 29443,
+   "area_dentro_la_zona_valida": 29443,
+   "bbox": [
+    1533,
+    874,
+    1763,
+    1242
+   ]
+  }
+ ],
+ "secondi": 0.2
+}

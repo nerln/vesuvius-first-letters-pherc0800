@@ -1,0 +1,76 @@
+{
+ "etichetta": "PHercMANBp w2 — 9,596 um",
+ "criteri": {
+  "soglia_u8": 128,
+  "area_min_px": 12000,
+  "bordo_px": 64,
+  "sovrapposizione_scarto": 0.5
+ },
+ "forma": [
+  3810,
+  3655
+ ],
+ "mpx": 13.93,
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 2242,
+   "inversi": 2016
+  },
+  "dopo_area": {
+   "avanti": 27,
+   "inversi": 29
+  },
+  "dopo_bordo": {
+   "avanti": 27,
+   "inversi": 28
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 26,
+   "inversi": 28
+  }
+ },
+ "scartati_per_sovrapposizione": [
+  [
+   1919,
+   0.628
+  ]
+ ],
+ "aree_avanti": [
+  12077,
+  12847,
+  13213,
+  13256,
+  13407,
+  13414,
+  13665,
+  14031,
+  14233,
+  14271,
+  14713,
+  15334,
+  15761,
+  16125,
+  17310,
+  18129,
+  19793,
+  21165,
+  21255,
+  22021,
+  25291,
+  25802,
+  26271,
+  27005,
+  39600,
+  42529
+ ],
+ "densita_avanti_per_mpx": 1.867,
+ "offset": {
+  "media_avanti": 88.65,
+  "media_inverso": 90.53,
+  "frazione_sopra_0.5_avanti": 11.95,
+  "frazione_sopra_0.5_inverso": 13.58,
+  "soglia_inverso_pareggiata": 132,
+  "pixel_validi_mpx": 11.2
+ },
+ "esito": "26 avanti, 28 inversi (verdetto: visivo, non automatico)"
+}

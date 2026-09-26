@@ -1,0 +1,46 @@
+{
+ "nome": "20251028225813-auto_grown_20251028225813045 A nativo",
+ "forward": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028225813-auto_grown_20251028225813045\\predA-nativo.tif",
+ "reverse": "C:\\Users\\Eugenio\\dev\\vesuvius-l2\\bersagli\\PHerc0800\\20251028225813-auto_grown_20251028225813045\\predA-nativo_reverse.tif",
+ "parametri": {
+  "soglia_uint8": 128,
+  "area_min_px": 12000,
+  "fascia_bordo_px": 64,
+  "occupazione_livello": "3",
+  "upscale": [
+   8,
+   8
+  ],
+  "frazione_valida_dopo_erosione": 0.3743716814159292
+ },
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 350,
+   "inversi": 356
+  },
+  "dopo_area": {
+   "avanti": 0,
+   "inversi": 0
+  },
+  "dopo_bordo": {
+   "avanti": 0,
+   "inversi": 0
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 0,
+   "inversi": 0
+  }
+ },
+ "bordo_variante_stretta": {
+  "avanti": 0,
+  "inversi": 0
+ },
+ "scarto_variante_unione": {
+  "avanti": 0
+ },
+ "candidati_avanti_sopravvissuti": [],
+ "candidati_avanti_scartati": [],
+ "dettaglio_avanti": [],
+ "dettaglio_inversi": [],
+ "secondi": 0.2
+}

@@ -1,0 +1,6 @@
+{
+ "_note": "Fraction of the render the inference scanned as non-empty, as printed by vesuvius.ink_detection.inference.infer ('Using occupancy scan ... nonempty_coverage='). Same definition for all three, so densities are comparable.",
+ "manbp_w0":       {"fraction": 0.31443, "source": "infer log, MANBp w0, Mac, 22/09: nonempty_coverage=31.443%", "render_px": [3825, 3445]},
+ "pherc0139_w029": {"fraction": 1.0,     "source": "infer log, L1 control crop, Mac, 22/09: nonempty_coverage=100.000%", "render_px": [768, 2304]},
+ "pherc0139_w035": {"fraction": 0.831071587838724, "source": "data/NUC-auc-avanti-b32.json: info.occupancy_source.fraction_valid", "render_px": [5820, 5240]}
+}

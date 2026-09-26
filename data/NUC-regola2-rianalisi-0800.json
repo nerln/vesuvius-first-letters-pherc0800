@@ -1,0 +1,242 @@
+{
+ "20251028213516-auto_grown_20251028213516907": {
+  "A_nativo": {
+   "luminosita": {
+    "media_avanti": 82.56494870372937,
+    "media_inverso": 88.15933470816582,
+    "frazione_accesa_avanti_a_128": 0.05865,
+    "frazione_accesa_inverso_a_128": 0.08639,
+    "soglia_inverso_a_pari_frazione": 139,
+    "frazione_accesa_inverso_a_quella_soglia": 0.06005
+   },
+   "vecchia": {
+    "finale_avanti": 2,
+    "finale_inversi": 3
+   },
+   "nuova": {
+    "soglia_inverso": 139,
+    "finale_avanti": 2,
+    "finale_inversi": 0
+   }
+  },
+  "B_9362": {
+   "luminosita": {
+    "media_avanti": 76.26084965704186,
+    "media_inverso": 79.75728021166083,
+    "frazione_accesa_avanti_a_128": 0.04797,
+    "frazione_accesa_inverso_a_128": 0.06854,
+    "soglia_inverso_a_pari_frazione": 139,
+    "frazione_accesa_inverso_a_quella_soglia": 0.0482
+   },
+   "vecchia": {
+    "finale_avanti": 0,
+    "finale_inversi": 2
+   },
+   "nuova": {
+    "soglia_inverso": 139,
+    "finale_avanti": 0,
+    "finale_inversi": 2
+   }
+  }
+ },
+ "20251028220042-auto_grown_20251028220042762": {
+  "A_nativo": {
+   "luminosita": {
+    "media_avanti": 89.42470246120199,
+    "media_inverso": 84.44879439675834,
+    "frazione_accesa_avanti_a_128": 0.11511,
+    "frazione_accesa_inverso_a_128": 0.06895,
+    "soglia_inverso_a_pari_frazione": 112,
+    "frazione_accesa_inverso_a_quella_soglia": 0.11828
+   },
+   "vecchia": {
+    "finale_avanti": 4,
+    "finale_inversi": 2
+   },
+   "nuova": {
+    "soglia_inverso": 112,
+    "finale_avanti": 4,
+    "finale_inversi": 5
+   }
+  },
+  "B_9362": {
+   "luminosita": {
+    "media_avanti": 82.87326510104045,
+    "media_inverso": 78.56378871442926,
+    "frazione_accesa_avanti_a_128": 0.104,
+    "frazione_accesa_inverso_a_128": 0.05187,
+    "soglia_inverso_a_pari_frazione": 110,
+    "frazione_accesa_inverso_a_quella_soglia": 0.10661
+   },
+   "vecchia": {
+    "finale_avanti": 8,
+    "finale_inversi": 1
+   },
+   "nuova": {
+    "soglia_inverso": 110,
+    "finale_avanti": 8,
+    "finale_inversi": 4
+   }
+  }
+ },
+ "20251028220955-auto_grown_20251028220955262": {
+  "A_nativo": {
+   "luminosita": {
+    "media_avanti": 89.20662273746906,
+    "media_inverso": 94.29609375,
+    "frazione_accesa_avanti_a_128": 0.10662,
+    "frazione_accesa_inverso_a_128": 0.14697,
+    "soglia_inverso_a_pari_frazione": 137,
+    "frazione_accesa_inverso_a_quella_soglia": 0.10822
+   },
+   "vecchia": {
+    "finale_avanti": 4,
+    "finale_inversi": 5
+   },
+   "nuova": {
+    "soglia_inverso": 137,
+    "finale_avanti": 4,
+    "finale_inversi": 3
+   }
+  },
+  "B_9362": {
+   "luminosita": {
+    "media_avanti": 81.05083852207017,
+    "media_inverso": 84.15138116590269,
+    "frazione_accesa_avanti_a_128": 0.09219,
+    "frazione_accesa_inverso_a_128": 0.11087,
+    "soglia_inverso_a_pari_frazione": 134,
+    "frazione_accesa_inverso_a_quella_soglia": 0.09273
+   },
+   "vecchia": {
+    "finale_avanti": 3,
+    "finale_inversi": 4
+   },
+   "nuova": {
+    "soglia_inverso": 134,
+    "finale_avanti": 3,
+    "finale_inversi": 2
+   }
+  }
+ },
+ "20251028222030-auto_grown_20251028222030940": {
+  "A_nativo": {
+   "luminosita": {
+    "media_avanti": 81.63702821233292,
+    "media_inverso": 81.29163280933577,
+    "frazione_accesa_avanti_a_128": 0.05151,
+    "frazione_accesa_inverso_a_128": 0.0432,
+    "soglia_inverso_a_pari_frazione": 123,
+    "frazione_accesa_inverso_a_quella_soglia": 0.05336
+   },
+   "vecchia": {
+    "finale_avanti": 1,
+    "finale_inversi": 0
+   },
+   "nuova": {
+    "soglia_inverso": 123,
+    "finale_avanti": 1,
+    "finale_inversi": 0
+   }
+  },
+  "B_9362": {
+   "luminosita": {
+    "media_avanti": 76.12093816338151,
+    "media_inverso": 75.12245906737547,
+    "frazione_accesa_avanti_a_128": 0.05296,
+    "frazione_accesa_inverso_a_128": 0.03977,
+    "soglia_inverso_a_pari_frazione": 121,
+    "frazione_accesa_inverso_a_quella_soglia": 0.0539
+   },
+   "vecchia": {
+    "finale_avanti": 1,
+    "finale_inversi": 1
+   },
+   "nuova": {
+    "soglia_inverso": 121,
+    "finale_avanti": 1,
+    "finale_inversi": 2
+   }
+  }
+ },
+ "20251028225813-auto_grown_20251028225813045": {
+  "A_nativo": {
+   "luminosita": {
+    "media_avanti": 81.7451056499252,
+    "media_inverso": 82.60781999690451,
+    "frazione_accesa_avanti_a_128": 0.045,
+    "frazione_accesa_inverso_a_128": 0.04227,
+    "soglia_inverso_a_pari_frazione": 126,
+    "frazione_accesa_inverso_a_quella_soglia": 0.0465
+   },
+   "vecchia": {
+    "finale_avanti": 0,
+    "finale_inversi": 0
+   },
+   "nuova": {
+    "soglia_inverso": 126,
+    "finale_avanti": 0,
+    "finale_inversi": 0
+   }
+  },
+  "B_9362": {
+   "luminosita": {
+    "media_avanti": 78.08452595682645,
+    "media_inverso": 78.1188518469511,
+    "frazione_accesa_avanti_a_128": 0.05252,
+    "frazione_accesa_inverso_a_128": 0.05171,
+    "soglia_inverso_a_pari_frazione": 127,
+    "frazione_accesa_inverso_a_quella_soglia": 0.05392
+   },
+   "vecchia": {
+    "finale_avanti": 1,
+    "finale_inversi": 1
+   },
+   "nuova": {
+    "soglia_inverso": 127,
+    "finale_avanti": 1,
+    "finale_inversi": 1
+   }
+  }
+ },
+ "20251029010146-auto_grown_20251029010146642": {
+  "A_nativo": {
+   "luminosita": {
+    "media_avanti": 81.85542887987438,
+    "media_inverso": 83.62825708257,
+    "frazione_accesa_avanti_a_128": 0.04671,
+    "frazione_accesa_inverso_a_128": 0.07246,
+    "soglia_inverso_a_pari_frazione": 140,
+    "frazione_accesa_inverso_a_quella_soglia": 0.0478
+   },
+   "vecchia": {
+    "finale_avanti": 0,
+    "finale_inversi": 0
+   },
+   "nuova": {
+    "soglia_inverso": 140,
+    "finale_avanti": 0,
+    "finale_inversi": 0
+   }
+  },
+  "B_9362": {
+   "luminosita": {
+    "media_avanti": 82.71357978804514,
+    "media_inverso": 81.66667381442512,
+    "frazione_accesa_avanti_a_128": 0.07899,
+    "frazione_accesa_inverso_a_128": 0.06455,
+    "soglia_inverso_a_pari_frazione": 121,
+    "frazione_accesa_inverso_a_quella_soglia": 0.08076
+   },
+   "vecchia": {
+    "finale_avanti": 0,
+    "finale_inversi": 0
+   },
+   "nuova": {
+    "soglia_inverso": 121,
+    "finale_avanti": 0,
+    "finale_inversi": 0
+   }
+  }
+ }
+}

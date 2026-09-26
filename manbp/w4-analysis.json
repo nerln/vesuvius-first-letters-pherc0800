@@ -1,0 +1,88 @@
+{
+ "etichetta": "PHercMANBp w4 — 9,596 um",
+ "criteri": {
+  "soglia_u8": 128,
+  "area_min_px": 12000,
+  "bordo_px": 64,
+  "sovrapposizione_scarto": 0.5
+ },
+ "forma": [
+  6550,
+  5195
+ ],
+ "mpx": 34.03,
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 1706,
+   "inversi": 1766
+  },
+  "dopo_area": {
+   "avanti": 21,
+   "inversi": 17
+  },
+  "dopo_bordo": {
+   "avanti": 21,
+   "inversi": 17
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 14,
+   "inversi": 17
+  }
+ },
+ "scartati_per_sovrapposizione": [
+  [
+   58,
+   0.557
+  ],
+  [
+   163,
+   0.629
+  ],
+  [
+   530,
+   0.701
+  ],
+  [
+   585,
+   0.706
+  ],
+  [
+   806,
+   0.544
+  ],
+  [
+   1023,
+   0.517
+  ],
+  [
+   1075,
+   0.693
+  ]
+ ],
+ "aree_avanti": [
+  12172,
+  13702,
+  16132,
+  21897,
+  22449,
+  22895,
+  28817,
+  29179,
+  31790,
+  39520,
+  55231,
+  115440,
+  130889,
+  242848
+ ],
+ "densita_avanti_per_mpx": 0.411,
+ "offset": {
+  "media_avanti": 102.56,
+  "media_inverso": 100.96,
+  "frazione_sopra_0.5_avanti": 24.49,
+  "frazione_sopra_0.5_inverso": 22.54,
+  "soglia_inverso_pareggiata": 124,
+  "pixel_validi_mpx": 5.05
+ },
+ "esito": "14 avanti, 17 inversi (verdetto: visivo, non automatico)"
+}

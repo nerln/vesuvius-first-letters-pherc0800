@@ -1,0 +1,100 @@
+{
+ "etichetta": "PHercMANBp w5 — 9,596 um",
+ "criteri": {
+  "soglia_u8": 128,
+  "area_min_px": 12000,
+  "bordo_px": 64,
+  "sovrapposizione_scarto": 0.5
+ },
+ "forma": [
+  4585,
+  3590
+ ],
+ "mpx": 16.46,
+ "tabella_G0": {
+  "sopra_soglia": {
+   "avanti": 1677,
+   "inversi": 1825
+  },
+  "dopo_area": {
+   "avanti": 24,
+   "inversi": 23
+  },
+  "dopo_bordo": {
+   "avanti": 24,
+   "inversi": 23
+  },
+  "dopo_scarto_inverso": {
+   "avanti": 14,
+   "inversi": 23
+  }
+ },
+ "scartati_per_sovrapposizione": [
+  [
+   6,
+   0.976
+  ],
+  [
+   18,
+   0.535
+  ],
+  [
+   64,
+   0.516
+  ],
+  [
+   335,
+   0.564
+  ],
+  [
+   557,
+   0.52
+  ],
+  [
+   695,
+   0.67
+  ],
+  [
+   773,
+   0.511
+  ],
+  [
+   908,
+   0.516
+  ],
+  [
+   922,
+   0.638
+  ],
+  [
+   1493,
+   0.542
+  ]
+ ],
+ "aree_avanti": [
+  14153,
+  16077,
+  18437,
+  25898,
+  25923,
+  26337,
+  34555,
+  39385,
+  52110,
+  62637,
+  66160,
+  99078,
+  108529,
+  124675
+ ],
+ "densita_avanti_per_mpx": 0.851,
+ "offset": {
+  "media_avanti": 106.13,
+  "media_inverso": 104.02,
+  "frazione_sopra_0.5_avanti": 27.35,
+  "frazione_sopra_0.5_inverso": 25.24,
+  "soglia_inverso_pareggiata": 124,
+  "pixel_validi_mpx": 4.63
+ },
+ "esito": "14 avanti, 23 inversi (verdetto: visivo, non automatico)"
+}

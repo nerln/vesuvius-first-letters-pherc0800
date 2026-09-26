@@ -1,0 +1,11 @@
+pannello-01: niente — alta — macchie chiare tondeggianti e grana omogenea, nessun tratto continuo a forma di lettera; la stessa trama compare anche a destra
+pannello-02: niente — alta — chiazze allungate e irregolari senza contorni chiusi riconducibili a lettere; la grana di sfondo è identica a destra
+pannello-03: lettere — alta — si leggono tratti continui e curvi allineati in righe (sembrano P, N, O, T e altre lettere) presenti solo a sinistra; a destra c'è solo rumore granuloso
+pannello-04: niente — alta — macchie chiare irregolari senza forme chiuse né tratto di spessore costante; la trama è sovrapponibile a quella di destra
+pannello-05: niente — alta — un unico grumo tondeggiante centrale, tipo corallo, senza segmenti dritti o angoli; forma quasi identica anche a destra
+pannello-06: lettere — alta — una fila di segni con tratto uniforme che chiudono in forme di lettera (una O/C, un gancio, una T, una forma triangolare tipo Λ, un'altra asta); a destra solo puntini di rumore, nessuna di queste forme
+pannello-07: niente — alta — punta a freccia riempita di chiazze tonde disomogenee, nessun tratto rettilineo o curva chiusa; pattern quasi sovrapponibile a destra
+pannello-08: niente — alta — nuvole sfocate e morbide senza bordi netti né spessore costante da tratto di penna; le stesse macchie sfocate compaiono anche a destra
+pannello-09: niente — alta — trama fibrosa fitta e granulosa uniforme su tutta la superficie, nessuna riga di segni allineati; texture praticamente identica a destra
+pannello-10: niente — alta — superficie a grana fibrosa fitta senza forme chiuse distinguibili; il pattern a destra è molto simile
+pannello-11: niente — alta — chiazze fibrose dense e disomogenee ma senza tratti a spessore costante che chiudano in lettere; texture simile anche a destra

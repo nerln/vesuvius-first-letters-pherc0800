@@ -1,0 +1,331 @@
+{
+ "lettere_annotate": 13,
+ "aree_lettere": {
+  "min": 15011,
+  "mediana": 29408.0,
+  "max": 43463
+ },
+ "candidati_avanti": 65,
+ "candidati_inversi": 24,
+ "lettere_ritrovate_dai_candidati_avanti(>=50% coperta)": 12,
+ "lettere_toccate_da_candidati_inversi(>=50%)": 0,
+ "candidati_avanti_dentro_la_supervisione": 9,
+ "per_lettera": [
+  {
+   "lettera": 1,
+   "area_etichetta": 42621,
+   "coperta_da_candidato_avanti": 0.956,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 319,
+   "area_blob_abbinato": 41992,
+   "px_del_blob_dentro_la_lettera": 40753,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 2,
+   "area_etichetta": 28206,
+   "coperta_da_candidato_avanti": 0.979,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 329,
+   "area_blob_abbinato": 28943,
+   "px_del_blob_dentro_la_lettera": 27612,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 3,
+   "area_etichetta": 39377,
+   "coperta_da_candidato_avanti": 0.956,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 336,
+   "area_blob_abbinato": 39761,
+   "px_del_blob_dentro_la_lettera": 37631,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 4,
+   "area_etichetta": 33944,
+   "coperta_da_candidato_avanti": 0.983,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 477,
+   "area_blob_abbinato": 60691,
+   "px_del_blob_dentro_la_lettera": 33358,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 5,
+   "area_etichetta": 26573,
+   "coperta_da_candidato_avanti": 0.977,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 493,
+   "area_blob_abbinato": 49869,
+   "px_del_blob_dentro_la_lettera": 25958,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 6,
+   "area_etichetta": 43463,
+   "coperta_da_candidato_avanti": 0.952,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 611,
+   "area_blob_abbinato": 45104,
+   "px_del_blob_dentro_la_lettera": 41389,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 7,
+   "area_etichetta": 29408,
+   "coperta_da_candidato_avanti": 0.917,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 626,
+   "area_blob_abbinato": 27815,
+   "px_del_blob_dentro_la_lettera": 26819,
+   "n_blob_che_toccano_la_lettera": 3
+  },
+  {
+   "lettera": 8,
+   "area_etichetta": 19470,
+   "coperta_da_candidato_avanti": 0.978,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 757,
+   "area_blob_abbinato": 63933,
+   "px_del_blob_dentro_la_lettera": 19039,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 9,
+   "area_etichetta": 35567,
+   "coperta_da_candidato_avanti": 0.935,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 757,
+   "area_blob_abbinato": 63933,
+   "px_del_blob_dentro_la_lettera": 33251,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 10,
+   "area_etichetta": 15011,
+   "coperta_da_candidato_avanti": 0.956,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 767,
+   "area_blob_abbinato": 15155,
+   "px_del_blob_dentro_la_lettera": 14345,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 11,
+   "area_etichetta": 32271,
+   "coperta_da_candidato_avanti": 0.967,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 774,
+   "area_blob_abbinato": 33084,
+   "px_del_blob_dentro_la_lettera": 31219,
+   "n_blob_che_toccano_la_lettera": 1
+  },
+  {
+   "lettera": 12,
+   "area_etichetta": 21500,
+   "coperta_da_candidato_avanti": 0.709,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 910,
+   "area_blob_abbinato": 18446,
+   "px_del_blob_dentro_la_lettera": 15238,
+   "n_blob_che_toccano_la_lettera": 2
+  },
+  {
+   "lettera": 13,
+   "area_etichetta": 28753,
+   "coperta_da_candidato_avanti": 0.0,
+   "coperta_da_candidato_inverso": 0.0,
+   "blob_predetto_abbinato": 956,
+   "area_blob_abbinato": 12083,
+   "px_del_blob_dentro_la_lettera": 6043,
+   "n_blob_che_toccano_la_lettera": 4
+  }
+ ],
+ "candidati_inversi_dettaglio": [
+  {
+   "area": 37970,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.364,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 34428,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 34067,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 28430,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 26194,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.356,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 25268,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.007,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 23858,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.007,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 22332,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.022,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 21515,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 19406,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 18405,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 17605,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.159,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 17374,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 17354,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 16831,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.119,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 16624,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 16597,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 16182,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 16126,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 15893,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 15762,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.64,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 15698,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.083,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 15641,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.289,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  },
+  {
+   "area": 15222,
+   "dentro_supervisione": 0.0,
+   "sovrapposto_a_un_candidato_avanti": 0.0,
+   "sovrapposto_a_inchiostro_annotato": 0.0
+  }
+ ],
+ "contingenza_regola_1": {
+  "definizione_a_qualsiasi_sovrapposizione": {
+   "n_blob": 18,
+   "area_minima": 1,
+   "prime_aree": [
+    1,
+    2,
+    3,
+    2329,
+    9259,
+    12083,
+    15103,
+    15155
+   ]
+  },
+  "definizione_b_blob_abbinato_per_lettera": {
+   "n_blob": 12,
+   "area_minima": 12083,
+   "aree": [
+    12083,
+    15155,
+    18446,
+    27815,
+    28943,
+    33084,
+    39761,
+    41992,
+    45104,
+    49869,
+    60691,
+    63933,
+    63933
+   ]
+  },
+  "regola_1_originale_px": 15011,
+  "area_min_di_questa_corsa_px": 15011,
+  "esito": "la regola 1 scende a 12000 px (piu' piccolo vero positivo noto 12083, arrotondato per difetto al centinaio)"
+ },
+ "sovrapposizione_media_inversi_su_avanti": 0.085,
+ "area_min_usata": 15011
+}
