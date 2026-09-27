@@ -19,6 +19,16 @@ Central European Summer Time, September 2026.
 - **the NUC / the Mac**: the two machines the runs were done on (a Windows mini-PC with an
   RTX 2070 SUPER, and an Apple Silicon Mac).
 
+## What was run
+
+| what | value |
+|---|---|
+| MANBp render | `vc_render_tifxyz` built from villa `main` at `d285029ab` (the same build as the L1 replication: sha256 `d813ddb1703a0ca569ced24867dcb9b66e50426692ebeb4ed7201af4da70f3f3`, listed in that repository's HASHES.md) |
+| MANBp inference | on the Mac's GPU (MPS) rather than the NUC's CUDA, with villa's `vesuvius` package at `78beac819`: `main` `d285029ab` plus the single change of [villa#1865](https://github.com/ScrollPrize/villa/pull/1865), which lets the automatic device choice pick MPS (that PR measured CPU and MPS predictions within one grey level in 255). Same model, same reading criteria, same flags except the batch size, below |
+| **deviation, 22 Sep 18:43** | the Mac runs used `--batch-size 8`, not the 32 frozen at 17:50 and restated for MANBp at 18:33. No reason was recorded when the change was made, at w0's inference. On the gate, batch 8 and 32 give AUC 0.997211 and 0.997213 (`G0.md`, 22 Sep 17:50): the batch size changes the run time, not the result at the precision reported here |
+| MANBp commands | the ones in `manbp/run.sh`. w1–w8 ran through the original script on 23 Sep, 10:54:20–11:18:57. w0 ran first, by hand, on 22 Sep (inference 18:43–18:44), with the same two commands and the same package |
+| PHerc. 0800 inference | on the NUC; each segment's full command is in `pherc0800/*/rapporto.json` |
+
 ## Fixed before any target was looked at (22 Sep, from 16:38)
 
 | what | value |
