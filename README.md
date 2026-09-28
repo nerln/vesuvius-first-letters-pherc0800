@@ -45,6 +45,7 @@ diagnostic. The pipeline yields **candidates, not verdicts**; the verdict is vis
 
 ## Files
 
+[`WRITEUP.md`](WRITEUP.md): the long form, with the commands as run and what failed.
 `PREREGISTRATION.md`: what was fixed before looking and what changed after, dated, in English
 (`G0.md` is the Italian original). `ERRATA.md`: what was wrong. `python3 reproduce.py`
 recomputes every number here from the raw output and exits 1 on a mismatch.
