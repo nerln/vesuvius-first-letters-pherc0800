@@ -107,17 +107,6 @@ verdicts before reading the other's. Both called both controls "letters" and all
 PHerc. 0800: 174 s of network and 491 s of GPU. PHerc. MANBp: 34 minutes on the Mac, render
 included. No cloud or rented GPU was used; both machines were already owned.
 
-## Around it, in villa
-
-- Merged: [#1528](https://github.com/ScrollPrize/villa/pull/1528) (alpha and beerLambert
-  compositing in `vc_render_tifxyz`), [#1807](https://github.com/ScrollPrize/villa/pull/1807)
-  (a `--cache-gb` warning that also reads nested cgroup limits),
-  [#1862](https://github.com/ScrollPrize/villa/pull/1862) (the remote normal-grid marker,
-  documented).
-- Open: [#1865](https://github.com/ScrollPrize/villa/pull/1865) (ink inference on the Mac GPU,
-  114.1 s against 38.2 s on CPU), [#1904](https://github.com/ScrollPrize/villa/pull/1904)
-  (what `--accum-type` does without `--accum`).
-
 ## Limits
 
 This null is for the public `ink_9um` checkpoint, at these scales, on these segments. It is
