@@ -38,7 +38,7 @@ Central European Summer Time, September 2026.
 | target filter 2 | has published segments in the Challenge's bucket |
 | target filter 3 | `stages.ink = false` in the Challenge's data browser on 22 Sep |
 | target filter 4 | a resolution the model can read (about 9 µm) |
-| model | `ink_9um`, `hybrid_3d2d-seed43/step-060000`, sha256 `bf229faf…5525d270` |
+| model | `ink_9um`, `hybrid_3d2d-seed43/step-060000`, sha256 `bf229faf754da3f1fc3026a3f9a9649341aeb3feb7bc89099cad31c55525d270` |
 | gate | PHerc. 0139 w035, a training segment, must reach AUC ≥ 0.85 against its published labels; if not, no target runs |
 | reading | threshold 0.5; both depth orders; a border band excluded; no selection after looking |
 | minimum size | the smallest labelled letter on w035, measured before any target; a contingency, written in advance, lowers it to the smallest true-positive blob if predictions are thinner than labels |
