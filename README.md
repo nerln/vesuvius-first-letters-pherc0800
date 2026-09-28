@@ -7,6 +7,8 @@ to 9.362 µm — and on the nine published wraps of PHerc. MANBp, rendered from 
 forward panel (the model reading the surface volume in its usual depth order) that is absent
 from the reverse one (the same volume read back to front, where ink should not show). All panels are in `pherc0800/` and `manbp/`.
 
+No model was trained or fine-tuned here: the checkpoint is used exactly as released at [huggingface.co/scrollprize/ink_9um](https://huggingface.co/scrollprize/ink_9um) (sha256 in `PREREGISTRATION.md`), and every prediction, panel and analysis produced is in this repository.
+
 That is about these segments, scales and model, not a claim that either scroll has no ink.
 PHerc. 0800 is in the First Letters set, with volume `20250521135224`, the one read here; PHerc.
 MANBp is not in that set ([eligibility list](https://github.com/ScrollPrize/villa/blob/75c79ac5f506d4b9a89bcfbef8e8c0f2f0c3acb3/scrollprize.org/src/data/prizeEligibility.json), as updated on 24 September in
